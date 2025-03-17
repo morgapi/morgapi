@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morgapi
-- 👀 I’m interested in codding
+- 👀 I’m interested in privacy
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me? Impossible
