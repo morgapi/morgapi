@@ -1,11 +1,6 @@
-```txt
-morgapi
-
-→ AI builder
-→ privacy enthusiast
-→ discord tools
-→ random ideas enjoyer
-
-currently: looking for the next project
-contact: impossible
-```
+- 👋 Hi, I'm morgapi
+- 🔒 Privacy matters
+- 🤖 AI does the heavy lifting
+- 🛠️ I build things when an idea won't leave me alone
+- 🌙 Most active when normal people sleep
+- 📫 Reach me if you can
